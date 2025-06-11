@@ -4,3 +4,5 @@ import seaborn as sn
 import matplotlb.pyplot as plt
 
 import sklearn
+import seaborn as sns
+import matplotlb.pyplot as plt
